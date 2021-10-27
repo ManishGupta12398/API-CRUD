@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\wbox168\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\wbox168\\.nuget\\packages"
+    ]
+  }
+}
